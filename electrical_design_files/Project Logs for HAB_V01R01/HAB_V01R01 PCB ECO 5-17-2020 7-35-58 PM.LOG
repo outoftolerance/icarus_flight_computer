@@ -1,0 +1,7 @@
+Change Component Designator: OldDesignator=J? NewDesignator=J4
+Change Component Designator: OldDesignator=J? NewDesignator=J5
+Change Component Designator: OldDesignator=J? NewDesignator=J6
+Change Component Designator: OldDesignator=J? NewDesignator=J7
+Added Member To Class: ClassName=[06] Connectors Member=Component J4 JST-GH 4 Pos
+Added Member To Class: ClassName=[06] Connectors Member=Component J6 JST-GH 4 Pos
+Added Member To Class: ClassName=[06] Connectors Member=Component J7 JST-GH 4 Pos

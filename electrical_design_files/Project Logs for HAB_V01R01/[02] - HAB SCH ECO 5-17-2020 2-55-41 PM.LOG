@@ -1,0 +1,47 @@
+Replace Part * ERJ-P06J105V in C:\Users\james\Documents\GitHub\hab_hardware\Icarus\02_DESIGN_FILES\V01R01\[02] - HAB.SchDoc with ERJ-P06J105V from Resistors.IntLib
+Replace Part B1 3000TR in C:\Users\james\Documents\GitHub\hab_hardware\Icarus\02_DESIGN_FILES\V01R01\[02] - HAB.SchDoc with 3000TR from Connectors - Batteries.IntLib
+Update Managed Component C1 From CMP-2007-03977-1[GRM21A5C2E220JW01D] To CMP-2007-03977-1[GRM21A5C2E220JW01D] in [02] - HAB.SchDoc
+Update Managed Component C2 From CMP-2007-03977-1[GRM21A5C2E220JW01D] To CMP-2007-03977-1[GRM21A5C2E220JW01D] in [02] - HAB.SchDoc
+Replace Part C3 GCM21BR71E105KA56L in C:\Users\james\Documents\GitHub\hab_hardware\Icarus\02_DESIGN_FILES\V01R01\[02] - HAB.SchDoc with GCM21BR71E105KA56L from Capacitors.IntLib
+Update Managed Component C4 From CMP-2000-04946-1[GRM21BR71C105KA01L] To CMP-2000-04946-1[GRM21BR71C105KA01L] in [02] - HAB.SchDoc
+Replace Part C5 GCM21BR71E105KA56L in C:\Users\james\Documents\GitHub\hab_hardware\Icarus\02_DESIGN_FILES\V01R01\[02] - HAB.SchDoc with GCM21BR71E105KA56L from Capacitors.IntLib
+Replace Part C6 GCM21BR71E105KA56L in C:\Users\james\Documents\GitHub\hab_hardware\Icarus\02_DESIGN_FILES\V01R01\[02] - HAB.SchDoc with GCM21BR71E105KA56L from Capacitors.IntLib
+Replace Part C7 C0805C104K1RACTU in C:\Users\james\Documents\GitHub\hab_hardware\Icarus\02_DESIGN_FILES\V01R01\[02] - HAB.SchDoc with C0805C104K1RACTU from Capacitors.IntLib
+Replace Part C8 C0805C104K1RACTU in C:\Users\james\Documents\GitHub\hab_hardware\Icarus\02_DESIGN_FILES\V01R01\[02] - HAB.SchDoc with C0805C104K1RACTU from Capacitors.IntLib
+Replace Part C9 GCM21BR71E105KA56L in C:\Users\james\Documents\GitHub\hab_hardware\Icarus\02_DESIGN_FILES\V01R01\[02] - HAB.SchDoc with GCM21BR71E105KA56L from Capacitors.IntLib
+Replace Part C10 GCM21BR71E105KA56L in C:\Users\james\Documents\GitHub\hab_hardware\Icarus\02_DESIGN_FILES\V01R01\[02] - HAB.SchDoc with GCM21BR71E105KA56L from Capacitors.IntLib
+Replace Part C11 C0805C104K1RACTU in C:\Users\james\Documents\GitHub\hab_hardware\Icarus\02_DESIGN_FILES\V01R01\[02] - HAB.SchDoc with C0805C104K1RACTU from Capacitors.IntLib
+Replace Part C12 GCM21BR71E105KA56L in C:\Users\james\Documents\GitHub\hab_hardware\Icarus\02_DESIGN_FILES\V01R01\[02] - HAB.SchDoc with GCM21BR71E105KA56L from Capacitors.IntLib
+Replace Part C13 GCM21BR71E105KA56L in C:\Users\james\Documents\GitHub\hab_hardware\Icarus\02_DESIGN_FILES\V01R01\[02] - HAB.SchDoc with GCM21BR71E105KA56L from Capacitors.IntLib
+Replace Part C14 GRM21BR61E106MA73L in C:\Users\james\Documents\GitHub\hab_hardware\Icarus\02_DESIGN_FILES\V01R01\[02] - HAB.SchDoc with GRM21BR61E106MA73L from Capacitors.IntLib
+Replace Part C15 GRM21BR61E106MA73L in C:\Users\james\Documents\GitHub\hab_hardware\Icarus\02_DESIGN_FILES\V01R01\[02] - HAB.SchDoc with GRM21BR61E106MA73L from Capacitors.IntLib
+Replace Part C16 GRM21BR61E106MA73L in C:\Users\james\Documents\GitHub\hab_hardware\Icarus\02_DESIGN_FILES\V01R01\[02] - HAB.SchDoc with GRM21BR61E106MA73L from Capacitors.IntLib
+Replace Part C17 GRM21BR61E106MA73L in C:\Users\james\Documents\GitHub\hab_hardware\Icarus\02_DESIGN_FILES\V01R01\[02] - HAB.SchDoc with GRM21BR61E106MA73L from Capacitors.IntLib
+Replace Part D1 APT2012EC in C:\Users\james\Documents\GitHub\hab_hardware\Icarus\02_DESIGN_FILES\V01R01\[02] - HAB.SchDoc with APT2012EC from LEDs.IntLib
+Update Managed Component D2 From CMP-1055-00449-1[MBR120VLSFT1G] To CMP-1055-00449-1[MBR120VLSFT1G] in [02] - HAB.SchDoc
+Replace Part J1 0473460001 in C:\Users\james\Documents\GitHub\hab_hardware\Icarus\02_DESIGN_FILES\V01R01\[02] - HAB.SchDoc with 0473460001 from Connectors.IntLib
+Replace Part J2 OSTTE020104 in C:\Users\james\Documents\GitHub\hab_hardware\Icarus\02_DESIGN_FILES\V01R01\[02] - HAB.SchDoc with OSTTE020104 from Connectors.IntLib
+Replace Part LS? CMT-1203-SMT-TR in C:\Users\james\Documents\GitHub\hab_hardware\Icarus\02_DESIGN_FILES\V01R01\[02] - HAB.SchDoc with CMT-1203-SMT-TR from Buzzers.IntLib
+Replace Part Q? AO3414 in C:\Users\james\Documents\GitHub\hab_hardware\Icarus\02_DESIGN_FILES\V01R01\[02] - HAB.SchDoc with AO3414 from Transistors - FET.IntLib
+Replace Part Q? AO3414 in C:\Users\james\Documents\GitHub\hab_hardware\Icarus\02_DESIGN_FILES\V01R01\[02] - HAB.SchDoc with AO3414 from Transistors - FET.IntLib
+Replace Part Q? AO3414 in C:\Users\james\Documents\GitHub\hab_hardware\Icarus\02_DESIGN_FILES\V01R01\[02] - HAB.SchDoc with AO3414 from Transistors - FET.IntLib
+Replace Part Q? AO3414 in C:\Users\james\Documents\GitHub\hab_hardware\Icarus\02_DESIGN_FILES\V01R01\[02] - HAB.SchDoc with AO3414 from Transistors - FET.IntLib
+Replace Part Q? AO3414 in C:\Users\james\Documents\GitHub\hab_hardware\Icarus\02_DESIGN_FILES\V01R01\[02] - HAB.SchDoc with AO3414 from Transistors - FET.IntLib
+Replace Part R1 ERJ-P06F1002V in C:\Users\james\Documents\GitHub\hab_hardware\Icarus\02_DESIGN_FILES\V01R01\[02] - HAB.SchDoc with ERJ-P06F1002V from Resistors.IntLib
+Replace Part R2 ERJ-P06F1002V in C:\Users\james\Documents\GitHub\hab_hardware\Icarus\02_DESIGN_FILES\V01R01\[02] - HAB.SchDoc with ERJ-P06F1002V from Resistors.IntLib
+Replace Part R3 ERJ-P06J101V in C:\Users\james\Documents\GitHub\hab_hardware\Icarus\02_DESIGN_FILES\V01R01\[02] - HAB.SchDoc with ERJ-P06J101V from Resistors.IntLib
+Replace Part R? CF14JT100R in C:\Users\james\Documents\GitHub\hab_hardware\Icarus\02_DESIGN_FILES\V01R01\[02] - HAB.SchDoc with CF14JT100R from Resistors.IntLib
+Replace Part R? CF14JT100R in C:\Users\james\Documents\GitHub\hab_hardware\Icarus\02_DESIGN_FILES\V01R01\[02] - HAB.SchDoc with CF14JT100R from Resistors.IntLib
+Replace Part R? CF14JT100R in C:\Users\james\Documents\GitHub\hab_hardware\Icarus\02_DESIGN_FILES\V01R01\[02] - HAB.SchDoc with CF14JT100R from Resistors.IntLib
+Replace Part R? CF14JT100R in C:\Users\james\Documents\GitHub\hab_hardware\Icarus\02_DESIGN_FILES\V01R01\[02] - HAB.SchDoc with CF14JT100R from Resistors.IntLib
+Replace Part R? CF14JT100R in C:\Users\james\Documents\GitHub\hab_hardware\Icarus\02_DESIGN_FILES\V01R01\[02] - HAB.SchDoc with CF14JT100R from Resistors.IntLib
+Update Managed Component SD1 From CMP-2000-05825-1[104031-0811] To CMP-2000-05825-1[104031-0811] in [02] - HAB.SchDoc
+Update Managed Component U1 From CMP-2100-03585-1[ATSAMD21G18A-AU] To CMP-2100-03585-1[ATSAMD21G18A-AU] in [02] - HAB.SchDoc
+Update Managed Component U2 From CMP-0254-00244-1[DS3231S] To CMP-0254-00244-1[DS3231S] in [02] - HAB.SchDoc
+Update Managed Component U3 From CMP-2000-05129-1[FXOS8700CQR1] To CMP-2000-05129-1[FXOS8700CQR1] in [02] - HAB.SchDoc
+Replace Part U4 FXAS21002CQR1 in C:\Users\james\Documents\GitHub\hab_hardware\Icarus\02_DESIGN_FILES\V01R01\[02] - HAB.SchDoc with FXAS21002CQR1 from ICs - Sensors.IntLib
+Replace Part U5 MTK3339 in C:\Users\james\Documents\GitHub\hab_hardware\Icarus\02_DESIGN_FILES\V01R01\[02] - HAB.SchDoc with MTK3339 from ICs - Sensors.IntLib
+Update Managed Component U6 From CMP-2000-05073-1[BME280] To CMP-2000-05073-1[BME280] in [02] - HAB.SchDoc
+Replace Part U7 NCP1117ST33T3G in C:\Users\james\Documents\GitHub\hab_hardware\Icarus\02_DESIGN_FILES\V01R01\[02] - HAB.SchDoc with NCP1117ST33T3G from Voltage Regulators - Linear.IntLib
+Replace Part U8 NCP1117ST50T3G in C:\Users\james\Documents\GitHub\hab_hardware\Icarus\02_DESIGN_FILES\V01R01\[02] - HAB.SchDoc with NCP1117ST50T3G from Voltage Regulators - Linear.IntLib
+Update Managed Component X1 From CMP-2000-07587-1[ABS07-120-32.768KHZ-T] To CMP-2000-07587-1[ABS07-120-32.768KHZ-T] in [02] - HAB.SchDoc

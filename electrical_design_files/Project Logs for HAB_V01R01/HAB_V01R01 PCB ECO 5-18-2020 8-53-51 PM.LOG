@@ -1,0 +1,10 @@
+Removed Member From Class: ClassName=[06] Connectors Member=J?
+Change Component Designator: OldDesignator=J? NewDesignator=J12
+Change Component Designator: OldDesignator=J? NewDesignator=J13
+Change Component Designator: OldDesignator=J? NewDesignator=J14
+Change Component Designator: OldDesignator=J? NewDesignator=J15
+Change Component Designator: OldDesignator=J? NewDesignator=J16
+Added Member To Class: ClassName=[03] PWM DRIVER Member=Component J12 SM03B-GHS-TB(LF)(SN)
+Added Member To Class: ClassName=[03] PWM DRIVER Member=Component J13 SM03B-GHS-TB(LF)(SN)
+Added Member To Class: ClassName=[03] PWM DRIVER Member=Component J15 SM03B-GHS-TB(LF)(SN)
+Added Member To Class: ClassName=[06] Connectors Member=Component J16 JST-GH 4 Pos

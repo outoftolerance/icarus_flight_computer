@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GND Pin=J2-1
+Removed Pin From Net: NetName=MCU_TX_2 Pin=J2-4
+Removed Pin From Net: NetName=MCU_RX_2 Pin=J2-5
+Removed Pin From Net: NetName=GND Pin=J2-9
+Removed Pin From Net: NetName=GND Pin=J2-16
+Removed Member From Class: ClassName=[02] - HAB Member=J2
+Added Member To Class: ClassName=[02] - HAB Member=Component J1 0473460001

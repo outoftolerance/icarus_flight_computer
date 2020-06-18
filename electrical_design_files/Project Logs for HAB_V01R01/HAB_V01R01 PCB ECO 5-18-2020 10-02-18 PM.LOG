@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=PWM_4 Pin=J12-1
+Removed Pin From Net: NetName=5V0 Pin=J12-2
+Removed Pin From Net: NetName=GND Pin=J12-3
+Removed Pin From Net: NetName=PWM_5 Pin=J13-1
+Removed Pin From Net: NetName=5V0 Pin=J13-2
+Removed Pin From Net: NetName=GND Pin=J13-3
+Removed Pin From Net: NetName=PWM_6 Pin=J14-1
+Removed Pin From Net: NetName=5V0 Pin=J14-2
+Removed Pin From Net: NetName=GND Pin=J14-3
+Removed Pin From Net: NetName=PWM_7 Pin=J15-1
+Removed Pin From Net: NetName=5V0 Pin=J15-2
+Removed Pin From Net: NetName=GND Pin=J15-3
+Removed Member From Class: ClassName=[03] PWM DRIVER Member=J12
+Removed Member From Class: ClassName=[03] PWM DRIVER Member=J13
+Removed Member From Class: ClassName=[03] PWM DRIVER Member=J14
+Removed Member From Class: ClassName=[03] PWM DRIVER Member=J15

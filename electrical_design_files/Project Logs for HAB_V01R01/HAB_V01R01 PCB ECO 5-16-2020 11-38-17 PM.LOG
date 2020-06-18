@@ -1,0 +1,9 @@
+Added Component: Designator=J?(RFD900)
+Added Pin To Net: NetName=GND Pin=J?-1
+Added Pin To Net: NetName=MCU_TX_2 Pin=J?-4
+Added Pin To Net: NetName=MCU_RX_2 Pin=J?-5
+Added Pin To Net: NetName=GND Pin=J?-9
+Added Pin To Net: NetName=GND Pin=J?-16
+Added Pin To Net: NetName=5V0 Pin=J?-10
+Added Net: Name=5V0
+Added Member To Class: ClassName=[02] - HAB Member=Component J? RFD900/X/+
